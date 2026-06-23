@@ -7,6 +7,16 @@
 [![Status](https://img.shields.io/badge/Status-Live_&_Active-22c55e?style=for-the-badge)]()
 [![Built by](https://img.shields.io/badge/Built_by-Ayushi_Maurya-7c3aed?style=for-the-badge)](https://linkedin.com/in/ayushi-maurya29042729)
 
+## 📸 Preview
+
+![LinkedInLens Homepage](homepage.png)
+
+![All 4 Tools](tools.png)
+
+## 🎬 Demo Video
+
+[▶ Watch Full Demo](https://share.zight.com/12unq6zJ)
+
 ---
 
 ## 🎯 The Problem
